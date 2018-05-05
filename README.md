@@ -9,22 +9,23 @@
 # Instructions:
 1. Go to Discord developer dashboard: https://discordapp.com/developers/applications/me
 2. Create new Application
-3. Find your ClientID:
+3. Enable Rich Presence module
+4. Find your ClientID:
 
 ![image](https://user-images.githubusercontent.com/8338166/39664001-c3888b94-507c-11e8-8b39-c36d7693055a.png)
 
-4. Copy it and paste to config.
+5. Copy it and paste to config.
 
 ![image](https://user-images.githubusercontent.com/8338166/39664005-e10de3bc-507c-11e8-8cb2-f44e4491f125.png)
 
-5. Install everything that is in the "To Install" folder.
+6. Install everything that is in the "To Install" folder.
 
-5.1. Run node-v8.11.1-x86.exe
+6.1. Run node-v8.11.1-x86.exe
 
-5.2. Then drag installdependencies.bat to main directory.
+6.2. Then drag installdependencies.bat to main directory.
 
-6. Run startpresence.bat
-7. Add assets in Discord Developer Dashboard. (Not important)
+7. Run startpresence.bat
+8. Add assets in Discord Developer Dashboard. (Not important)
 
 ## Explanation of config
 details - ![image](https://user-images.githubusercontent.com/8338166/39664022-38b90d4e-507d-11e8-8a5c-2b38694605af.png)
