@@ -1,5 +1,4 @@
-# BetterPresence
-A Node.JS Discord RPC generator.
+![banner](https://user-images.githubusercontent.com/8338166/39664914-9dffa240-508b-11e8-82f6-05abc7f1213d.png)
 ## Example:
 ![ex1](https://user-images.githubusercontent.com/8338166/39663205-47380806-506f-11e8-9070-895374f1d3df.PNG)
 ## Features
