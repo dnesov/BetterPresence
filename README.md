@@ -22,7 +22,7 @@
 
 6.1. Run node-v8.11.1-x86.exe
 
-6.2. Then drag installdependencies.bat to main directory.
+6.2. Then drag installdependencies.bat to main directory and start it.
 
 7. Run startpresence.bat
 8. Add assets in Discord Developer Dashboard. (Not important)
