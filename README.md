@@ -20,8 +20,8 @@ Our Discord: https://discord.gg/qT9rdvs
 
 ![image](https://user-images.githubusercontent.com/8338166/39664005-e10de3bc-507c-11e8-8cb2-f44e4491f125.png)
 
-7. Run startpresence.bat
-8. Add assets in Discord Developer Dashboard. (Not important)
+6. Run startpresence.bat
+7. Add assets in Discord Developer Dashboard. (Not important)
 
 ## Explanation of config
 details - ![image](https://user-images.githubusercontent.com/8338166/39664022-38b90d4e-507d-11e8-8a5c-2b38694605af.png)
