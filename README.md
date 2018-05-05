@@ -8,6 +8,7 @@ Our Discord: https://discord.gg/qT9rdvs
 * Wrote in JavaScript (because why not)
 
 # Instructions:
+**YOU NEED TO INSTALL NODE.JS FROM https://nodejs.org/en/ IN ORDER TO MAKE THIS WORK!**
 1. Go to Discord developer dashboard: https://discordapp.com/developers/applications/me
 2. Create new Application
 3. Enable Rich Presence module
