@@ -20,12 +20,6 @@ Our Discord: https://discord.gg/qT9rdvs
 
 ![image](https://user-images.githubusercontent.com/8338166/39664005-e10de3bc-507c-11e8-8cb2-f44e4491f125.png)
 
-6. Install everything that is in the "To Install" folder.
-
-6.1. Run node-v8.11.1-x86.exe
-
-6.2. Then drag installdependencies.bat to main directory and start it.
-
 7. Run startpresence.bat
 8. Add assets in Discord Developer Dashboard. (Not important)
 
