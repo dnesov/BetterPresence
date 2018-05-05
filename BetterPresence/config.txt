@@ -1,7 +1,7 @@
-clientId = 442321549253541888
-details = Uses BetterPresence
-state = Please change the config!
-largeImageKey = bt_logo
-largeImageText = Uses BetterPresence
-smallImageKey = configure
-smallImageText = Please change config!
+clientId = 442050471314587659
+details = Does things like dnesov
+state = (Made with BetterPresence!)
+largeImageKey = dnesov
+largeImageText = A 100% legit dnesov
+smallImageKey = coding
+smallImageText = Coding some stuff
