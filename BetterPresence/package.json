@@ -1,0 +1,11 @@
+{
+  "name": "betterpresence",
+  "version": "0.1.0",
+  "description": "A utility for making nice looking Discord Rich Presences",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dnesov",
+  "license": "ISC"
+}

@@ -1,0 +1,7 @@
+clientId = 442321549253541888
+details = Uses BetterPresence
+state = Please change the config!
+largeImageKey = bt_logo
+largeImageText = Uses BetterPresence
+smallImageKey = configure
+smallImageText = Please change config!
