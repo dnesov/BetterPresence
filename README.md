@@ -6,6 +6,9 @@ Our Discord: https://discord.gg/qT9rdvs
 * Customisable
 * Easy to use
 * Wrote in JavaScript (because why not)
+## Planned features:
+* Visual interface
+* Profile system
 
 # Instructions:
 **YOU NEED TO INSTALL NODE.JS FROM https://nodejs.org/en/ IN ORDER TO MAKE THIS WORK!**
