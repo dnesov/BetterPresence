@@ -9,6 +9,8 @@ Our Discord: https://discord.gg/qT9rdvs
 ## Planned features:
 * Visual interface
 * Profile system
+* Rewrite it completely
+* Get rid of Node.js installing by user
 
 # Instructions:
 **YOU NEED TO INSTALL NODE.JS FROM https://nodejs.org/en/ IN ORDER TO MAKE THIS WORK!**
